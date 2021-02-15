@@ -1,0 +1,13 @@
+{
+  "name": "dcj-api",
+  "version": "1.0.0",
+  "description": "RESTful API",
+  "main": "y",
+  "repository": "https://github.com/iamdcj/dcj-api",
+  "author": "David Christian Jones <david@dcj,codes>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
